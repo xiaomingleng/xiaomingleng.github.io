@@ -1,0 +1,13 @@
+title: Xiaoming's Blog
+description: Thoughts on AI, technology, and the future
+url: "https://xiaomingleng.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Build settings
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
